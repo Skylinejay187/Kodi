@@ -1,0 +1,9 @@
+! Apple Block Revoke
+||vpp.itunes.apple.com^
+||ocsp.apple.com^
+||ocsp2.apple.com^
+||valid.apple.com^
+||crl.apple.com^
+||certs.apple.com^
+||appattest.apple.com^
+||axm-app.apple.com^
